@@ -10,9 +10,9 @@
 
 Сайт опубликован через GitHub Pages:
 
-**https://sergeyeideman-design.github.io/galitsky-park/**
+**https://sergeyeideman-design.github.io/galickiy-park/**
 
-Репозиторий: **https://github.com/sergeyeideman-design/galitsky-park**
+Репозиторий: **https://github.com/sergeyeideman-design/galickiy-park**
 
 ## Как открыть
 
